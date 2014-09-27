@@ -5,8 +5,5 @@
     <Setting Name="Bounds" Type="System.Drawing.Rectangle" Scope="User">
       <Value Profile="(Default)">100, 100, 1024, 761</Value>
     </Setting>
-    <Setting Name="WindowState" Type="System.Windows.Forms.FormWindowState" Scope="User">
-      <Value Profile="(Default)">Normal</Value>
-    </Setting>
   </Settings>
 </SettingsFile>
